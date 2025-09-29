@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Kmu serius no?",
+    "serius ni seng ga pilih yes?",
+    "Yakin Ni?",
+    "please yg yes...",
+    "coba dipikir seng",
+    "kalau no aku cedihh dah...",
+    "yqh cedih aku ...",
+    "Bener Bener cedih aiu...",
+    "yaudah terserah u...",
+    "bercand, please pencet yess! ❤️"
 ];
 
 let messageIndex = 0;
